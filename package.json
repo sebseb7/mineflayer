@@ -21,8 +21,8 @@
   },
   "license": "MIT",
   "dependencies": {
-    "minecraft-data": "^3.15.2",
-    "minecraft-protocol": "^1.36.0",
+    "minecraft-data": "https://github.com/jtsiskin/minecraft-data.git",
+    "minecraft-protocol": "https://github.com/jtsiskin/node-minecraft-protocol.git",
     "prismarine-biome": "^1.1.1",
     "prismarine-block": "^1.13.1",
     "prismarine-chat": "^1.7.1",
